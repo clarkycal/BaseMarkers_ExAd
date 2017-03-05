@@ -14,9 +14,9 @@ Add the folowing line in the CfgXM8 class
 class BaseMarker 
 	{
 		controlID = 50500;
-		title = "Base Marker";		
+		title = "Base Marker";
 		logo = "ExAdClient\XM8\Apps\BaseMarker\BaseMarker.paa";
 		onLoad = "ExAdClient\XM8\Apps\BaseMarker\onLoad.sqf";
-	};
-	
+		};
+
 You're Done!
