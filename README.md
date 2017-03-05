@@ -11,8 +11,8 @@
 	{
 		controlID = 50500;
 		title = "Base Marker";		
-		logo = "CP\ExAdClient\XM8\Apps\BaseMarker\BaseMarker.paa";
-		onLoad = "CP\ExAdClient\XM8\Apps\BaseMarker\onLoad.sqf";
+		logo = "ExAdClient\XM8\Apps\BaseMarker\BaseMarker.paa";
+		onLoad = "ExAdClient\XM8\Apps\BaseMarker\onLoad.sqf";
 	};
 ```
 
